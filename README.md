@@ -1,5 +1,5 @@
-# Project Scripts
+# Project: alx_be_shell
 
+## 0-iam_betty
+This script switches the current user to the `betty` user.
 
-## hello.sh
-This script prints "Hello, world!" to the terminal.
